@@ -1,0 +1,9 @@
+D:\LarsCodeStuff\LaRSSFeedReader\LaRSSFeedReader\bin\Debug\LaRSSFeedReader.exe.config
+D:\LarsCodeStuff\LaRSSFeedReader\LaRSSFeedReader\bin\Debug\LaRSSFeedReader.exe
+D:\LarsCodeStuff\LaRSSFeedReader\LaRSSFeedReader\bin\Debug\LaRSSFeedReader.pdb
+D:\LarsCodeStuff\LaRSSFeedReader\LaRSSFeedReader\obj\Debug\LaRSSFeedReader.Form1.resources
+D:\LarsCodeStuff\LaRSSFeedReader\LaRSSFeedReader\obj\Debug\LaRSSFeedReader.Properties.Resources.resources
+D:\LarsCodeStuff\LaRSSFeedReader\LaRSSFeedReader\obj\Debug\LaRSSFeedReader.csproj.GenerateResource.Cache
+D:\LarsCodeStuff\LaRSSFeedReader\LaRSSFeedReader\obj\Debug\LaRSSFeedReader.exe
+D:\LarsCodeStuff\LaRSSFeedReader\LaRSSFeedReader\obj\Debug\LaRSSFeedReader.pdb
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Debug\LaRSSFeedReader.BookmarkInputForm.resources

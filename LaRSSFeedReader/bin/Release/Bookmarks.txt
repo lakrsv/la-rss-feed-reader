@@ -1,0 +1,1 @@
+{"Reddit":"http://www.reddit.com/.rss","CSGO Reddit":"http://www.reddit.com/GlobalOffensive/.rss","TIFU Reddit":"https://www.reddit.com/r/tifu/.rss"}

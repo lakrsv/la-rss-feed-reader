@@ -1,0 +1,17 @@
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\bin\Release\LaRSSFeedReader.exe.config
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\bin\Release\LaRSSFeedReader.exe
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\bin\Release\LaRSSFeedReader.pdb
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.BookmarkInputForm.resources
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.Form1.resources
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.Properties.Resources.resources
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.csproj.GenerateResource.Cache
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.exe
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.pdb
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\bin\Release\Newtonsoft.Json.dll
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\bin\Release\Newtonsoft.Json.xml
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.csprojResolveAssemblyReference.cache
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\bin\Release\Interop.SHDocVw.dll
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\bin\Release\AxInterop.SHDocVw.dll
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\Interop.SHDocVw.dll
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\AxInterop.SHDocVw.dll
+D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.csproj.ResolveComReference.cache
