@@ -15,3 +15,20 @@ D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\bin\Release\AxInterop.SHDocVw.d
 D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\Interop.SHDocVw.dll
 D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\AxInterop.SHDocVw.dll
 D:\LarsCodeStuff\LARSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\bin\Release\LaRSSFeedReader.exe.config
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\bin\Release\LaRSSFeedReader.exe
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\bin\Release\LaRSSFeedReader.pdb
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\bin\Release\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\bin\Release\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\bin\Release\Interop.SHDocVw.dll
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\bin\Release\AxInterop.SHDocVw.dll
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\obj\Release\Interop.SHDocVw.dll
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\obj\Release\AxInterop.SHDocVw.dll
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.BookmarkInputForm.resources
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.exe
+D:\Documents\Visual Studio 2015\Projects\LaRSSFeedReader\LaRSSFeedReader\obj\Release\LaRSSFeedReader.pdb

@@ -7,7 +7,7 @@ using System.Collections.ObjectModel;
 using System.IO;
 using Newtonsoft.Json;
 
-namespace LaRSSFeedReader
+namespace LaRSSFeedReader.Scripts
 {
     class BookmarkHandler
     {

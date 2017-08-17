@@ -10,6 +10,8 @@ using System.Windows.Forms;
 using System.Collections.ObjectModel;
 using System.Threading;
 using System.Text.RegularExpressions;
+using LaRSSFeedReader.Scripts;
+
 namespace LaRSSFeedReader
 {
     public partial class Form1 : Form
@@ -17,7 +19,7 @@ namespace LaRSSFeedReader
         Form BookmarkForm;
         BackgroundWorker progressWorker = new BackgroundWorker();
         RssHandler handler = new RssHandler();
-        Collection<Rss.Items> list;
+        Collection<Item> list;
         DataGridViewRow row;
         public static ProgressBar TheProgressBar;
         public Form1()
@@ -85,7 +87,7 @@ namespace LaRSSFeedReader
             for (int i = 0; i < list.Count; i++)
             {
                 string title = list[i].Title;
-                string date = list[i].PubDate.ToShortDateString();
+                string date = list[i].PubDate;
                 DataGridViewRow clonerow = (DataGridViewRow)row.Clone();
                 clonerow.Cells[0].Value = title;
                 clonerow.Cells[1].Value = date;
@@ -99,7 +101,7 @@ namespace LaRSSFeedReader
         private void handler_failureEvent()
         {
             //If the handler fails, fire this event.
-            this.pictureBox1.Enabled = false;
+            //this.pictureBox1.Enabled = false;
         }
 
         private void feedbox_DoubleClick(object sender, EventArgs e)
